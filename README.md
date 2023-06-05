@@ -4,7 +4,7 @@
 **Variable = Definition > Key**  
 - survival = Survival > 0 = No, 1 = Yes  
 - pclass = Ticket class > 1 = 1st, 2 = 2nd, 3 = 3rd   
-- age = Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5  
+- age = Age > Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5  
 - sibsp = # of siblings / spouses aboard the Titanic  
 Sibling (brother, sister, stepbrother, stepsister)  
 Spouse = husband, wife (mistresses and fiancés were ignored)  
