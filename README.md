@@ -1,6 +1,6 @@
-### Purpose of the Study
+### Aim of the Study
 
-In this study, **6 different models** were tested on Titanic Data and the best model for survival prediction was determined based on ***Sex, Age, Parent-Child*** information.  
+The aim of this study is to test ***6 different models*** based on the **Sex, Age** and **Parent-Child** information of the Titanic Data and to determine the best model for survival prediction. 
   
 Models tested in order:  
 - Logistic Regression
