@@ -1,7 +1,8 @@
 ### Purpose of the Study
 
 In this study, 6 different models were tested on Titanic Data and the model with the highest accuracy was tried to be determined.  
-  Models tested in order:  
+  
+Models tested in order:  
 - Logistic Regression
 - Gaussian Naive Bayes (GaussianNB)
 - Bernoulli Naive Bayes (BernoulliNB)
