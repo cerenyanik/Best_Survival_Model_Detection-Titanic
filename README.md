@@ -9,7 +9,7 @@ Models tested in order:
 - Decision Tree
 - Support Vector Machines (SVMs)
 - Linear Regression
-
+  
 ### Information About Data Properties
 
 **Variable > Definition > Key**  
