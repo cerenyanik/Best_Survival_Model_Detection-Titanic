@@ -2,7 +2,7 @@
 
 The aim of this study is to test ***6 different models*** based on the **Sex, Age** and **Parent-Child** information of the Titanic Data and to determine the best model for survival prediction. 
   
-Models tested in order:  
+**Models tested in order:**  
 - Logistic Regression
 - Gaussian Naive Bayes (GaussianNB)
 - Bernoulli Naive Bayes (BernoulliNB)
