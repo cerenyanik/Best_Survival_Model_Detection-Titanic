@@ -1,6 +1,6 @@
 ### Purpose of the Study
 
-In this study, 6 different models were tested on Titanic Data and the model with the highest accuracy was tried to be determined.  
+In this study, **6 different models** were tested on Titanic Data and the best model for survival prediction was determined based on ***Sex, Age, Parent-Child*** information.  
   
 Models tested in order:  
 - Logistic Regression
