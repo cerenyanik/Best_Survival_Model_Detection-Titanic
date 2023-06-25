@@ -24,4 +24,6 @@ Some children travelled only with a nanny, therefore parch=0 for them
 - ***ticket*** = Ticket number  
 - ***fare*** = Passenger fare  
 - ***cabin*** = Cabin number  
-- ***embarked*** = Port of Embarkation > C = Cherbourg, Q = Queenstown, S = Southampton  
+- ***embarked*** = Port of Embarkation > C = Cherbourg, Q = Queenstown, S = Southampton
+
+Find out more about this dataset here: https://www.kaggle.com/competitions/titanic/overview
