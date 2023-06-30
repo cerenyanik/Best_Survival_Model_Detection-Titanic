@@ -10,7 +10,7 @@ The aim of this study is to test ***6 different models*** based on the **Sex, Ag
 - Support Vector Machines (SVMs)
 - Linear Regression
   
-### Information About Data Properties
+### Information About Data Features
 
 **Variable > Definition > Key**  
 - ***survival*** = Survival > 0 = No, 1 = Yes  
