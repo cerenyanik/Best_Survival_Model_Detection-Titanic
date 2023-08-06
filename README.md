@@ -13,17 +13,17 @@ The aim of this study is to test ***6 different models*** based on the **Sex, Ag
 ### Information About Data Features
 
 **Variable > Definition > Key**  
-- ***survival*** = Survival > 0 = No, 1 = Yes  
-- ***pclass*** = Ticket class > 1 = 1st, 2 = 2nd, 3 = 3rd   
+- ***Survived*** = Survival > 0 = No, 1 = Yes  
+- ***Pclass*** = Ticket class > 1 = 1st, 2 = 2nd, 3 = 3rd   
 - ***age*** = Age > Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5  
-- ***sibsp*** = # of siblings / spouses aboard the Titanic  
+- ***SibSp*** = # of siblings / spouses aboard the Titanic  
 Sibling (brother, sister, stepbrother, stepsister)  
 Spouse = husband, wife (mistresses and fiancés were ignored)  
-- ***parch*** = # of parents / children aboard the Titanic  
+- ***Parch*** = # of parents / children aboard the Titanic  
 Some children travelled only with a nanny, therefore parch=0 for them  
-- ***ticket*** = Ticket number  
-- ***fare*** = Passenger fare  
-- ***cabin*** = Cabin number  
-- ***embarked*** = Port of Embarkation > C = Cherbourg, Q = Queenstown, S = Southampton
+- ***Ticket*** = Ticket number  
+- ***Fare*** = Passenger fare  
+- ***Cabin*** = Cabin number  
+- ***Embarked*** = Port of Embarkation > C = Cherbourg, Q = Queenstown, S = Southampton
 
 Find out more about this dataset here: https://www.kaggle.com/competitions/titanic/overview
