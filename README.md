@@ -16,6 +16,6 @@ In this study, after detailed Exploratory Data Analysis, 6 different machine lea
 - What was the probability of survival of those with siblings/spouse?
 - What was the probability of survival of those with parents/children?
 - What was the passenger fare survival relationship?
-- What was the percentage of survivors according to the embarkment point?
+- What was the percentage of survivors according to the embarkation point?
 
 Find out more about this dataset here: https://www.kaggle.com/competitions/titanic/overview
