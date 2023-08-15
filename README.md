@@ -10,11 +10,12 @@ In this study, after detailed Exploratory Data Analysis, 6 different machine lea
   
 ### Some of the questions I aim to answer in Exploratory Data Analysis are:
 - What was the general passenger profile?
-- What was the percentage of survivors by socio-economic class?
-- What was the percentage of survivors by gender?
-- What was the probability of survival by age?
+- What was the percentage of survivors according to socio-economic class?
+- What was the percentage of survivors according to gender?
+- What was the probability of survival according to age?
 - What was the probability of survival of those with siblings/spouse?
 - What was the probability of survival of those with parents/children?
 - What was the passenger fare survival relationship?
+- What was the percentage of survivors according to the embarkment point?
 
 Find out more about this dataset here: https://www.kaggle.com/competitions/titanic/overview
