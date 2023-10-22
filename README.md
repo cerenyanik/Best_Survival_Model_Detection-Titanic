@@ -1,4 +1,4 @@
-In this study, after detailed Exploratory Data Analysis, 5 different machine learning models were tested on Titanic Data to answer the question "What sorts of people were more likely to survive?" and the best model for survival prediction was determined.
+In this study, after detailed Exploratory Data Analysis, 5 different machine learning models were tested on Titanic Data to answer the question "What sorts of people were more likely to survive?" and the best model for survival prediction was determined. 
   
 ### Models Tested in Order:
 - Logistic Regression
