@@ -7,7 +7,7 @@ In this study, after detailed Exploratory Data Analysis, 5 different machine lea
 - Decision Tree
 - Support Vector Machines (SVMs)
   
-### Some of the questions I aim to answer in Exploratory Data Analysis are:
+### Some of the questions I aim to answer in Exploratory Data Analysis are: 
 - What was the general passenger profile?
 - What was the percentage of survivors according to socio-economic class?
 - What was the percentage of survivors according to gender?
